@@ -1,41 +1,48 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:00F7FF,100:6366F1&height=180&section=header&text=GAURAV%20SONI&fontSize=52&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" width="100%" alt="Gaurav Soni"/>
-
-### `AI ENGINEERING • MACHINE LEARNING • GENERATIVE AI`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=%3E+Initializing+GauravSoni.exe...;%3E+Building+Intelligent+Systems;%3E+Training+Models+%7C+Building+Agents;%3E+Turning+Ideas+into+AI+Applications;%3E+Learn.+Build.+Deploy.+Repeat." alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:111827,70:00F7FF,100:7C3AED&height=220&section=header&text=GAURAV%20SONI&fontSize=58&fontColor=FFFFFF&fontAlignY=42&animation=twinkling" width="100%" alt="GAURAV SONI"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-0F172A?style=for-the-badge&logo=tensorflow&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/GENAI-0F172A?style=for-the-badge&logo=openai&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/DATA%20SCIENCE-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-<img src="https://img.shields.io/badge/DSA-0F172A?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+### ⚡ `AI / ML ENGINEER IN THE MAKING`
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2600&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=%3E+SYSTEM.ONLINE;%3E+Building+Intelligent+Systems;%3E+Training+Models+%7C+Building+Agents;%3E+Exploring+Generative+AI;%3E+Turning+Ideas+Into+Reality;%3E+STATUS%3A+ALWAYS+BUILDING+%E2%9A%A1" alt="Typing Animation"/>
+
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-050505?style=for-the-badge&logo=openai&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-050505?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+  <img src="https://img.shields.io/badge/GENERATIVE%20AI-050505?style=for-the-badge&logo=googlebard&logoColor=8B5CF6"/>
+  <img src="https://img.shields.io/badge/DATA%20SCIENCE-050505?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+</p>
+
+<br>
 
 <a href="https://github.com/gauravsoni1706">
-<img src="https://img.shields.io/badge/%3C%2F%3E%20GITHUB-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/%E2%9A%A1%20GITHUB-0B0B0B?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
+ 
+
 <a href="https://www.linkedin.com/in/gaurav-soni-07805032b/">
-<img src="https://img.shields.io/badge/%E2%86%92%20LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  <img src="https://img.shields.io/badge/%E2%86%92%20LINKEDIN-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=gauravsoni1706&label=VISITORS&color=00F7FF&style=for-the-badge" alt="Profile Views"/>
 
+<br><br>
+
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+
+### **BUILD • BREAK • LEARN • REBUILD**
+
+`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+
 </div>
 
----
-
-<div align="center">
-
-### `STATUS: BUILDING THE FUTURE, ONE MODEL AT A TIME ⚡`
-
-</div>
 
 
 
