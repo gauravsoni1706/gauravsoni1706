@@ -1,37 +1,42 @@
 <div align="center">
 
-# 👋 Hey, I'm **Gaurav Soni**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:00F7FF,100:6366F1&height=180&section=header&text=GAURAV%20SONI&fontSize=52&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" width="100%" alt="Gaurav Soni"/>
 
-### 🚀 CSE (Data Science) Student • 🤖 AI/ML Enthusiast • 🧠 Generative AI Explorer
+### `AI ENGINEERING • MACHINE LEARNING • GENERATIVE AI`
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Applications;Exploring+Generative+AI+%26+AI+Agents;Machine+Learning+%7C+Data+Science+%7C+DSA;Turning+Ideas+into+Real-World+Projects" alt="Typing SVG" />
-</p>
-
-<p>
-  <a href="https://github.com/gauravsoni1706">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gaurav-soni-07805032b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-111827?style=for-the-badge&logo=googlecloud&logoColor=00F7FF" alt="AI & ML"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge&logo=openai&logoColor=00F7FF" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/Data%20Science-111827?style=for-the-badge&logo=python&logoColor=00F7FF" alt="Data Science"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=%3E+Initializing+GauravSoni.exe...;%3E+Building+Intelligent+Systems;%3E+Training+Models+%7C+Building+Agents;%3E+Turning+Ideas+into+AI+Applications;%3E+Learn.+Build.+Deploy.+Repeat." alt="Typing SVG"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=gauravsoni1706&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-0F172A?style=for-the-badge&logo=tensorflow&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/GENAI-0F172A?style=for-the-badge&logo=openai&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/DATA%20SCIENCE-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+<img src="https://img.shields.io/badge/DSA-0F172A?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 
 <br><br>
 
-> **Building • Learning • Experimenting • Improving**
+<a href="https://github.com/gauravsoni1706">
+<img src="https://img.shields.io/badge/%3C%2F%3E%20GITHUB-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gaurav-soni-07805032b/">
+<img src="https://img.shields.io/badge/%E2%86%92%20LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=gauravsoni1706&label=VISITORS&color=00F7FF&style=for-the-badge" alt="Profile Views"/>
 
 </div>
+
+---
+
+<div align="center">
+
+### `STATUS: BUILDING THE FUTURE, ONE MODEL AT A TIME ⚡`
+
+</div>
+
 
 
 ---
