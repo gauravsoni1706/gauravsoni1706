@@ -1,29 +1,28 @@
-<!-- ======================= HEADER ======================= -->
-
 <div align="center">
 
 # 👋 Hey, I'm **Gaurav Soni**
 
 ### `CSE (Data Science) Student` • `AI/ML Enthusiast` • `GenAI Explorer`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Applications;Exploring+Generative+AI+%26+AI+Agents;Machine+Learning+%7C+Data+Science+%7C+DSA;Turning+Ideas+into+Working+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Applications;Exploring+Generative+AI+%26+AI+Agents;Machine+Learning+%7C+Data+Science+%7C+DSA;Turning+Ideas+into+Working+Projects" alt="Typing SVG" />
 
-<p>
-  <a href="https://github.com/gauravsoni1706">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gaurav-soni-07805032b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<br>
+
+<a href="https://github.com/gauravsoni1706">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gaurav-soni-07805032b/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=gauravsoni1706&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
-
-<!-- ======================= ABOUT ======================= -->
 
 ## 🧑‍💻 About Me
 
@@ -48,11 +47,11 @@ class GauravSoni:
     mindset = "Learn → Build → Experiment → Improve"
 ```
 
-I'm a **Computer Science & Engineering (Data Science)** student passionate about building practical technology with **AI and Machine Learning**.
+I'm a **Computer Science & Engineering (Data Science)** student passionate about building practical solutions using **Artificial Intelligence, Machine Learning, Data Science, and Generative AI**.
 
-I enjoy working on projects that combine **data, intelligent models, automation, and real-world applications**.
+I enjoy turning ideas into working applications and continuously improving my skills through **projects, experimentation, and problem solving**.
 
-🎯 My current goal is to grow into a strong **AI/ML Engineer** by building projects, improving DSA, and learning modern AI engineering.
+🎯 My goal is to grow into a strong **AI/ML Engineer** by building real-world systems and developing strong software engineering fundamentals.
 
 ---
 
@@ -60,14 +59,14 @@ I enjoy working on projects that combine **data, intelligent models, automation,
 
 <div align="center">
 
-|             🧠 Area            | 🚀 Focus                                      |
-| :----------------------------: | :-------------------------------------------- |
-| 🤖 **Artificial Intelligence** | Intelligent applications & AI engineering     |
-|      🧠 **Generative AI**      | LLMs, RAG & AI Agents                         |
-|     📊 **Machine Learning**    | Classification, prediction & model evaluation |
-|       📈 **Data Science**      | Data analysis & visualization                 |
-|           💻 **DSA**           | Algorithms & problem solving                  |
-|       🌐 **Development**       | Full-stack & backend development              |
+|             🧠 Area            | 🚀 Focus                                  |
+| :----------------------------: | :---------------------------------------- |
+| 🤖 **Artificial Intelligence** | Intelligent applications & AI Engineering |
+|      🧠 **Generative AI**      | LLMs, RAG & AI Agents                     |
+|     📊 **Machine Learning**    | Classification, prediction & evaluation   |
+|       📈 **Data Science**      | Data analysis & visualization             |
+|           💻 **DSA**           | Algorithms & problem solving              |
+|       🌐 **Development**       | Full-stack & backend development          |
 
 </div>
 
@@ -98,12 +97,10 @@ I enjoy working on projects that combine **data, intelligent models, automation,
 ### 🧠 Generative AI
 
 <p>
-
 <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI_Agents-111111?style=for-the-badge"/>
-
 </p>
 
 ### 🌐 Development
@@ -124,50 +121,50 @@ I enjoy working on projects that combine **data, intelligent models, automation,
 
 <div align="center">
 
-### 🤖 AI Interview Agent
+## 🤖 AI Interview Agent
 
 **An AI-powered interviewer designed to simulate intelligent interviews and evaluate candidates.**
 
 `Generative AI` `AI Agents` `LLMs` `Interview Evaluation`
 
 <a href="https://github.com/gauravsoni1706/INTERVIEw-AI">
-<img src="https://img.shields.io/badge/🔗_VIEW_PROJECT-00F7FF?style=for-the-badge&labelColor=111111"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&labelColor=111111"/>
 </a>
 
----
+<br><br>
 
-### 💳 AI Financial Fraud Detection
+## 💳 AI Financial Fraud Detection
 
 **Machine-learning system for detecting potentially fraudulent transactions using an end-to-end ML pipeline.**
 
 `Python` `Scikit-learn` `Random Forest` `Pandas` `Flask`
 
 <a href="https://github.com/gauravsoni1706/Project-PBEL-3.0">
-<img src="https://img.shields.io/badge/🔗_VIEW_PROJECT-00F7FF?style=for-the-badge&labelColor=111111"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&labelColor=111111"/>
 </a>
 
----
+<br><br>
 
-### 🔎 FINDIT — Campus Lost & Found
+## 🔎 FINDIT — Campus Lost & Found
 
 **A platform that helps students report, discover and manage lost & found items on campus.**
 
 `HTML` `CSS` `JavaScript` `Web Development`
 
 <a href="https://github.com/gauravsoni1706/LOST-AND-FOUND-SYSTEM">
-<img src="https://img.shields.io/badge/🔗_VIEW_PROJECT-00F7FF?style=for-the-badge&labelColor=111111"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&labelColor=111111"/>
 </a>
 
----
+<br><br>
 
-### ✍️ Social Media Caption Generator
+## ✍️ Social Media Caption Generator
 
 **An AI-powered application for generating creative social media captions.**
 
 `Python` `AI` `Application Development`
 
 <a href="https://github.com/gauravsoni1706/social-media-caption-generator">
-<img src="https://img.shields.io/badge/🔗_VIEW_PROJECT-00F7FF?style=for-the-badge&labelColor=111111"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&labelColor=111111"/>
 </a>
 
 </div>
@@ -178,17 +175,31 @@ I enjoy working on projects that combine **data, intelligent models, automation,
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gauravsoni1706&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+### 💻 GitHub Overview
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravsoni1706&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gauravsoni1706&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsoni1706&layout=donut&hide_border=true&theme=tokyonight&langs_count=69" />
 
 </div>
 
 <br>
 
+### 🏆 GitHub Achievements
+
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsoni1706&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gauravsoni1706&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" />
+
+</div>
+
+<br>
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsoni1706&bg_color=1a1b27&color=70a5fd&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -218,17 +229,16 @@ I enjoy working on projects that combine **data, intelligent models, automation,
 
 ```text
                     AI / ML ENGINEER
-                          │
-          ┌───────────────┼───────────────┐
-          │               │               │
-     Machine Learning   GenAI          Software
-          │               │           Engineering
-          │               │               │
-     Data Science       LLMs            DSA
-          │               │               │
-     Statistics          RAG          System Design
-                          │
-                       AI Agents
+                           │
+             ┌─────────────┼─────────────┐
+             │             │             │
+        Machine Learning  GenAI      Software Engineering
+             │             │             │
+        Data Science      LLMs          DSA
+             │             │             │
+        Statistics         RAG       System Design
+                           │
+                        AI Agents
 ```
 
 ### 🎯 2026 → 2028
@@ -247,10 +257,12 @@ I enjoy working on projects that combine **data, intelligent models, automation,
 
 # 🌱 Beyond Code
 
-> **"The goal isn't just to write code.
-> The goal is to build something useful with it."**
+> **"The goal isn't just to write code.**
+> **The goal is to build something useful with it."**
 
-I believe the best way to learn technology is to **build, break, understand, and build again.**
+I believe the best way to learn technology is to:
+
+**Build → Break → Understand → Improve → Repeat**
 
 ---
 
@@ -277,4 +289,3 @@ I believe the best way to learn technology is to **build, break, understand, and
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer"/>
 
 </div>
-
