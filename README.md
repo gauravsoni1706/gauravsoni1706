@@ -47,37 +47,35 @@
 
 
 ---
+## 👨‍💻 About Me
 
-## 🧑‍💻 About Me
+<div align="center">
 
-```python
-class GauravSoni:
+### 🎓 CSE (Data Science) Student @ ABES Engineering College
 
-    role = "B.Tech CSE (Data Science) Student"
-    college = "ABES Engineering College"
-    graduation = 2028
+**I'm passionate about building intelligent systems that solve real-world problems.**
 
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Generative AI",
-        "AI Agents",
-        "Data Science",
-        "Data Structures & Algorithms"
-    ]
+</div>
 
-    currently_building = "AI-powered applications"
+<br>
 
-    mindset = "Learn → Build → Experiment → Improve"
-```
+* 🤖 Exploring **Artificial Intelligence, Machine Learning & Generative AI**
+* 🧠 Building projects with **LLMs, RAG & AI Agents**
+* 📊 Working with **Data Science & Machine Learning**
+* 💻 Strengthening **DSA & Problem Solving**
+* 🚀 Turning ideas into **real-world applications**
+* 🌱 Continuously learning and experimenting with emerging technologies
 
-I'm a **Computer Science & Engineering (Data Science)** student passionate about building practical solutions using **Artificial Intelligence, Machine Learning, Data Science, and Generative AI**.
+<br>
 
-I enjoy turning ideas into working applications and continuously improving my skills through **projects, experimentation, and problem solving**.
+<div align="center">
 
-🎯 My goal is to grow into a strong **AI/ML Engineer** by building real-world systems and developing strong software engineering fundamentals.
+### ⚡ My Approach
 
----
+**Learn → Build → Experiment → Improve → Repeat**
+
+</div>
+
 
 ## ⚡ What I'm Currently Exploring
 
