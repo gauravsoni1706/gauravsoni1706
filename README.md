@@ -224,33 +224,19 @@ I enjoy turning ideas into working applications and continuously improving my sk
 
 <div align="center">
 
-### 💻 GitHub Overview
+### 🐙 GitHub Profile
 
-<img 
-src="https://github-readme-stats.vercel.app/api?username=gauravsoni1706&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-width="48%"
-alt="GitHub Stats"
-/>
+<a href="https://github.com/gauravsoni1706">
+  <img src="https://img.shields.io/github/followers/gauravsoni1706?style=for-the-badge&logo=github&label=Followers" />
+</a>
 
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsoni1706&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-width="40%"
-alt="Top Languages"
-/>
+<a href="https://github.com/gauravsoni1706?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-7-181717?style=for-the-badge&logo=github" />
+</a>
 
-</div>
-
-<br>
-
-### 🏆 GitHub Achievements
-
-<div align="center">
-
-<img 
-src="https://github-profile-trophy.vercel.app/?username=gauravsoni1706&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"
-width="85%"
-alt="GitHub Trophies"
-/>
+<a href="https://github.com/gauravsoni1706?tab=stars">
+  <img src="https://img.shields.io/github/stars/gauravsoni1706?style=for-the-badge&logo=github&label=Stars" />
+</a>
 
 </div>
 
@@ -260,11 +246,30 @@ alt="GitHub Trophies"
 
 <div align="center">
 
-<img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsoni1706&theme=tokyo-night&hide_border=true&area=true"
+<img
+src="https://ghchart.rshah.org/00F7FF/gauravsoni1706"
+alt="Gaurav Soni GitHub Contribution Graph"
 width="95%"
-alt="Contribution Graph"
 />
+
+</div>
+
+<br>
+
+### 💻 Open Source & Development
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-00F7FF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Focus-Machine%20Learning-6366F1?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Focus-Generative%20AI-8A2BE2?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Focus-Data%20Science-00A67E?style=for-the-badge" />
+
+</div>
+
 
 </div>
 
