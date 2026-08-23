@@ -242,17 +242,7 @@ I enjoy turning ideas into working applications and continuously improving my sk
 
 <br>
 
-### 📈 Contribution Activity
 
-<div align="center">
-
-<img
-src="https://ghchart.rshah.org/00F7FF/gauravsoni1706"
-alt="Gaurav Soni GitHub Contribution Graph"
-width="95%"
-/>
-
-</div>
 
 <br>
 
