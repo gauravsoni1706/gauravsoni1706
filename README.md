@@ -9,11 +9,11 @@
 <br>
 
 <a href="https://github.com/gauravsoni1706">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/gaurav-soni-07805032b/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br><br>
@@ -74,45 +74,67 @@ I enjoy turning ideas into working applications and continuously improving my sk
 
 # 🛠️ Tech Arsenal
 
-### 👨‍💻 Programming
+## 👨‍💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript" />
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript" alt="Programming Languages"/>
+
 </p>
 
-### 🤖 AI / ML / Data Science
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+## 🤖 AI / ML / Data Science
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" alt="AI ML"/>
+
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<p align="left">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge" alt="LightGBM"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+
 </p>
 
-### 🧠 Generative AI
+---
 
-<p>
-<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_Agents-111111?style=for-the-badge"/>
+## 🧠 Generative AI
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge" alt="LLMs"/>
+<img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/AI_Agents-111111?style=for-the-badge" alt="AI Agents"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-6366F1?style=for-the-badge" alt="Prompt Engineering"/>
+
 </p>
 
-### 🌐 Development
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,flask,spring" />
+## 🌐 Web Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,flask,spring" alt="Web Development"/>
+
 </p>
 
-### 🗄️ Tools & Platforms
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
+## 🗄️ Tools & Platforms
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" alt="Tools"/>
+
 </p>
 
 ---
@@ -127,35 +149,60 @@ I enjoy turning ideas into working applications and continuously improving my sk
 
 `Generative AI` `AI Agents` `LLMs` `Interview Evaluation`
 
+<br>
+
 <a href="https://github.com/gauravsoni1706/INTERVIEw-AI">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&labelColor=111111"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&labelColor=111111" alt="View Project"/>
 </a>
 
-<br><br>
+---
 
 ## 💳 AI Financial Fraud Detection
 
-**Machine-learning system for detecting potentially fraudulent transactions using an end-to-end ML pipeline.**
+**A machine-learning system designed to detect potentially fraudulent transactions using an end-to-end ML pipeline.**
 
-`Python` `Scikit-learn` `Random Forest` `Pandas` `Flask`
+**Features**
+
+* Data preprocessing
+* Feature engineering
+* Fraud classification
+* Imbalanced data handling
+* Model evaluation
+* Flask web application
+* CSV-based prediction
+
+`Python` `Pandas` `Scikit-learn` `Random Forest` `Flask`
+
+<br>
 
 <a href="https://github.com/gauravsoni1706/Project-PBEL-3.0">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&labelColor=111111"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&labelColor=111111" alt="View Project"/>
 </a>
 
-<br><br>
+---
 
 ## 🔎 FINDIT — Campus Lost & Found
 
-**A platform that helps students report, discover and manage lost & found items on campus.**
+**A platform that helps students report, discover, and manage lost and found items on campus.**
 
-`HTML` `CSS` `JavaScript` `Web Development`
+**Features**
+
+* User authentication
+* Lost & found item posting
+* Dashboard
+* Messaging
+* Notifications
+* Responsive interface
+
+`HTML` `CSS` `JavaScript`
+
+<br>
 
 <a href="https://github.com/gauravsoni1706/LOST-AND-FOUND-SYSTEM">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&labelColor=111111"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&labelColor=111111" alt="View Project"/>
 </a>
 
-<br><br>
+---
 
 ## ✍️ Social Media Caption Generator
 
@@ -163,8 +210,10 @@ I enjoy turning ideas into working applications and continuously improving my sk
 
 `Python` `AI` `Application Development`
 
+<br>
+
 <a href="https://github.com/gauravsoni1706/social-media-caption-generator">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&labelColor=111111"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00F7FF?style=for-the-badge&labelColor=111111" alt="View Project"/>
 </a>
 
 </div>
@@ -177,9 +226,17 @@ I enjoy turning ideas into working applications and continuously improving my sk
 
 ### 💻 GitHub Overview
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gauravsoni1706&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" />
+<img 
+src="https://github-readme-stats.vercel.app/api?username=gauravsoni1706&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+width="48%"
+alt="GitHub Stats"
+/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsoni1706&layout=donut&hide_border=true&theme=tokyonight&langs_count=69" />
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsoni1706&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+width="40%"
+alt="Top Languages"
+/>
 
 </div>
 
@@ -189,7 +246,11 @@ I enjoy turning ideas into working applications and continuously improving my sk
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gauravsoni1706&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" />
+<img 
+src="https://github-profile-trophy.vercel.app/?username=gauravsoni1706&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"
+width="85%"
+alt="GitHub Trophies"
+/>
 
 </div>
 
@@ -199,7 +260,11 @@ I enjoy turning ideas into working applications and continuously improving my sk
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsoni1706&bg_color=1a1b27&color=70a5fd&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsoni1706&theme=tokyo-night&hide_border=true&area=true"
+width="95%"
+alt="Contribution Graph"
+/>
 
 </div>
 
@@ -211,13 +276,23 @@ I enjoy turning ideas into working applications and continuously improving my sk
 
 🎓 **B.Tech CSE — Data Science**
 
+  •  
+
 📜 **NPTEL Certifications**
+
+  •  
 
 🤖 **Generative AI Experience**
 
+  •  
+
 🏅 **Hackathon Participation**
 
+  •  
+
 📊 **Machine Learning Projects**
+
+  •  
 
 💻 **DSA & Problem Solving**
 
@@ -228,17 +303,17 @@ I enjoy turning ideas into working applications and continuously improving my sk
 # 📚 My Learning Roadmap
 
 ```text
-                    AI / ML ENGINEER
-                           │
-             ┌─────────────┼─────────────┐
-             │             │             │
-        Machine Learning  GenAI      Software Engineering
-             │             │             │
-        Data Science      LLMs          DSA
-             │             │             │
-        Statistics         RAG       System Design
-                           │
-                        AI Agents
+                         AI / ML ENGINEER
+                                │
+                ┌───────────────┼───────────────┐
+                │               │               │
+        Machine Learning       GenAI      Software Engineering
+                │               │               │
+         Data Science          LLMs             DSA
+                │               │               │
+          Statistics            RAG        System Design
+                                │
+                           AI Agents
 ```
 
 ### 🎯 2026 → 2028
@@ -257,12 +332,12 @@ I enjoy turning ideas into working applications and continuously improving my sk
 
 # 🌱 Beyond Code
 
-> **"The goal isn't just to write code.**
-> **The goal is to build something useful with it."**
+> **The goal isn't just to write code.**
+> **The goal is to build something useful with it.**
 
-I believe the best way to learn technology is to:
+I believe the best way to learn technology is:
 
-**Build → Break → Understand → Improve → Repeat**
+### **Build → Break → Understand → Improve → Repeat**
 
 ---
 
@@ -271,11 +346,11 @@ I believe the best way to learn technology is to:
 <div align="center">
 
 <a href="https://github.com/gauravsoni1706">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/gaurav-soni-07805032b/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>
@@ -286,6 +361,6 @@ I believe the best way to learn technology is to:
 
 ### 💻 Building. Learning. Experimenting.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer" alt="Footer"/>
 
 </div>
