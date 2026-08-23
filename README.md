@@ -2,25 +2,37 @@
 
 # 👋 Hey, I'm **Gaurav Soni**
 
-### `CSE (Data Science) Student` • `AI/ML Enthusiast` • `GenAI Explorer`
+### 🚀 CSE (Data Science) Student • 🤖 AI/ML Enthusiast • 🧠 Generative AI Explorer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Applications;Exploring+Generative+AI+%26+AI+Agents;Machine+Learning+%7C+Data+Science+%7C+DSA;Turning+Ideas+into+Working+Projects" alt="Typing SVG" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Applications;Exploring+Generative+AI+%26+AI+Agents;Machine+Learning+%7C+Data+Science+%7C+DSA;Turning+Ideas+into+Real-World+Projects" alt="Typing SVG" />
+</p>
+
+<p>
+  <a href="https://github.com/gauravsoni1706">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gaurav-soni-07805032b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-111827?style=for-the-badge&logo=googlecloud&logoColor=00F7FF" alt="AI & ML"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge&logo=openai&logoColor=00F7FF" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Data%20Science-111827?style=for-the-badge&logo=python&logoColor=00F7FF" alt="Data Science"/>
+</p>
 
 <br>
 
-<a href="https://github.com/gauravsoni1706">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/gaurav-soni-07805032b/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=gauravsoni1706&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" alt="Profile Views"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=gauravsoni1706&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" alt="Profile Views"/>
+> **Building • Learning • Experimenting • Improving**
 
 </div>
+
 
 ---
 
